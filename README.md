@@ -1,2 +1,2 @@
 # pytorch-cv
-学习用pytorch做cv相关的任务
+一步一步用pytorch做cv相关的任务
